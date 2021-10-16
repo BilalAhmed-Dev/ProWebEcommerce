@@ -1,0 +1,12 @@
+.shadow {
+  box-shadow: 0 0.4rem 2.8rem rgba(0, 0, 0, 0.075);
+  transition: all 0.4s;
+}
+.shadow:hover {
+  transform: translateY(-1rem);
+  box-shadow: 0 2.4rem 4.8rem rgba(0, 0, 0, 0.075);
+}
+
+.card {
+  border: none;
+}
