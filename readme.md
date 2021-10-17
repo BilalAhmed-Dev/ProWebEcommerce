@@ -1,4 +1,4 @@
-# ProWebEcommerce E-commerce Project
+# ProWebEcommerce E-Commerce Project
 
 > Complete E-commerce site built with Node.js, React, Redux, Express, MongoDB
 
