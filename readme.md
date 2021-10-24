@@ -7,14 +7,6 @@
 Add your config variables values in the config.env file in backend/config folder
 
 
-
-
-
-
-
-# React-Ecommerce-website
-### Work Under Progress
-
 ### Version 1 :
 * The data is stored in a hosted Mongo database
 version 1 is hosted [HERE!](https://prowebecommerce.herokuapp.com/)
