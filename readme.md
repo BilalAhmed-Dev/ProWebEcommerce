@@ -26,9 +26,9 @@ The application is composed of the following Features:
 
 ### Backend
 
-* As of this moment I am MongoDB for data and mongoose to connect to a hosted database
+* As of this moment I am using MongoDB for data and mongoose to connect to a hosted database
 * It is also used to store all the data 
-* I am also using Express to define routes and middlewares as well as other packages inorder to build a complete backend API that recieves requests and sends back responses
+* I am also using Express to define routes and middlewares as well as other packages in-order to build a complete backend API that recieves requests and sends back responses
 * I am using JWT tokens inorder to implement user's Authentication and Authorization allowing different resource access to users and admins
 
 ## Developed With
