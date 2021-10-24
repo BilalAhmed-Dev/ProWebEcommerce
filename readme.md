@@ -93,3 +93,6 @@ Run it in the root folder.
 ```
 npm run seeder
 ```
+
+### Start the app
+npm run dev
